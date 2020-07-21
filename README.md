@@ -1,5 +1,5 @@
 # CI-CD Project
 
-** Using Jenkins as Continuous Integration (CI) tool
-** Using Ansible as Continuous Deployment (CD) tool
-** Using Docker as Deployment Environment
+1. Using Jenkins as Continuous Integration (CI) tool
+2. Using Ansible as Continuous Deployment (CD) tool
+3. Using Docker as Deployment Environment
