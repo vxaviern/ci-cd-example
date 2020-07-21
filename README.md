@@ -1,1 +1,3 @@
-Hi
+# maven-project
+
+Simple Maven Project
